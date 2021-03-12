@@ -2,3 +2,5 @@
 
 1. Commit
 1. Branch
+1. Edit from web
+1. Merge
